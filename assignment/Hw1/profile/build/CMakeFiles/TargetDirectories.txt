@@ -1,0 +1,3 @@
+/home/jarven/graphic/src/assignment/Hw1/profile/build/CMakeFiles/Rasterizer.dir
+/home/jarven/graphic/src/assignment/Hw1/profile/build/CMakeFiles/edit_cache.dir
+/home/jarven/graphic/src/assignment/Hw1/profile/build/CMakeFiles/rebuild_cache.dir
