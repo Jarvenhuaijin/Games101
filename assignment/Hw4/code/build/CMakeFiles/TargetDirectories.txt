@@ -1,0 +1,3 @@
+/home/jarven/graphic/src/assignment/Hw4/code/build/CMakeFiles/BezierCurve.dir
+/home/jarven/graphic/src/assignment/Hw4/code/build/CMakeFiles/edit_cache.dir
+/home/jarven/graphic/src/assignment/Hw4/code/build/CMakeFiles/rebuild_cache.dir
